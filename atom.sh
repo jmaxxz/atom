@@ -161,6 +161,7 @@ elif [ $OS == 'Linux' ]; then
       ATOM_PATH="$USR_DIRECTORY/share/atom-nightly/atom"
       ;;
     dev)
+    #lol
       ATOM_PATH="$USR_DIRECTORY/share/atom-dev/atom"
       ;;
     *)
